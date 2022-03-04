@@ -1,0 +1,21 @@
+Burglar, Billy            74 234 23 NY N
+Jackson, Jumping Jason    65 171 45 MA N
+Jewel, Billie Jo          74 145 54 MO N
+Buster, Bully Bill        71 195 55 PA N
+Cutthroat, Crazy Carol    67 198 75 SC N
+Washer, Kitty             65 195 34 NC Y
+Outlaw, Val               77 245 70 FL N
+Gopro, Larceny Luigi      71 145 72 TX Y
+Cracker, Carl Cement      73 123 66 MN N
+Smasher, Sally Slasher    73 183 31 OH n
+Perpetrator, Paulette     60 123 68 NJ n
+Smith, Sure Shot Sal      66 144 43 NM y
+Genner, Giant Georgie     75 180 22 CA n
+Dagger, Devilish Dan      65 166 49 CO n
+Wild, Wacky Willie        76 177 43 AZ n
+Madder, Mad Mike          73 222 56 MA Y
+Cabbler, Cody Coder       66 150 23 MS Y
+Stealer, Smudgy Stan      67 155 19 PA N
+Felly, Fishy Frieda       65 208 54 NY Y
+Harla, Half-Witted Harold 64 175 56 NC N
+Mala, Merry Mad Mike      72 165 21 NY Y

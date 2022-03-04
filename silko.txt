@@ -1,0 +1,87 @@
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+                                                                                Data for the Crooks
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Name: Billy Burglar                 Age: 23        State: NY        Height of the crook: 6' 1"         Weight of the crook:          234       Not Incarcerated
+Name: Jumping Jason Jackson         Age: 45        State: MA        Height of the crook: 5' 4"         Weight of the crook:          171       Not Incarcerated
+Name: Billie Jo Jewel               Age: 54        State: MO        Height of the crook: 6' 1"         Weight of the crook:          145       Not Incarcerated
+Name: Bully Bill Buster             Age: 55        State: PA        Height of the crook: 5' 9"         Weight of the crook:          195       Not Incarcerated
+Name: Crazy Carol Cutthroat         Age: 75        State: SC        Height of the crook: 5' 5"         Weight of the crook:          198       Not Incarcerated
+Name: Kitty Washer                  Age: 34        State: NC        Height of the crook: 5' 4"         Weight of the crook:          195       Incarcerated
+Name: Val Outlaw                    Age: 70        State: FL        Height of the crook: 6' 4"         Weight of the crook:          245       Not Incarcerated
+Name: Larceny Luigi Gopro           Age: 72        State: TX        Height of the crook: 5' 9"         Weight of the crook:          145       Incarcerated
+Name: Carl Cement Cracker           Age: 66        State: MN        Height of the crook: 6' 0"         Weight of the crook:          123       Not Incarcerated
+Name: Sally Slasher Smasher         Age: 31        State: OH        Height of the crook: 6' 0"         Weight of the crook:          183       Not Incarcerated
+Name: Paulette Perpetrator          Age: 68        State: NJ        Height of the crook: 5' 0"         Weight of the crook:          123       Not Incarcerated
+Name: Sure Shot Sal Smith           Age: 43        State: NM        Height of the crook: 5' 5"         Weight of the crook:          144       Incarcerated
+Name: Giant Georgie Genner          Age: 22        State: CA        Height of the crook: 6' 2"         Weight of the crook:          180       Not Incarcerated
+Name: Devilish Dan Dagger           Age: 49        State: CO        Height of the crook: 5' 4"         Weight of the crook:          166       Not Incarcerated
+Name: Wacky Willie Wild             Age: 43        State: AZ        Height of the crook: 6' 3"         Weight of the crook:          177       Not Incarcerated
+Name: Mad Mike Madder               Age: 56        State: MA        Height of the crook: 6' 0"         Weight of the crook:          222       Incarcerated
+Name: Cody Coder Cabbler            Age: 23        State: MS        Height of the crook: 5' 5"         Weight of the crook:          150       Incarcerated
+Name: Smudgy Stan Stealer           Age: 19        State: PA        Height of the crook: 5' 5"         Weight of the crook:          155       Not Incarcerated
+Name: Fishy Frieda Felly            Age: 54        State: NY        Height of the crook: 5' 4"         Weight of the crook:          208       Incarcerated
+Name: Half-Witted Harold Harla      Age: 56        State: NC        Height of the crook: 5' 3"         Weight of the crook:          175       Not Incarcerated
+Name: Merry Mad Mike Mala           Age: 21        State: NY        Height of the crook: 6' 0"         Weight of the crook:          165       Incarcerated
+There are 21 crooks
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+                                                         Data for the Police before the sort
+------------------------------------------------------------------------------------------------------------------------------------------------------
+Name: Sally Sleuth                  Age: 23        State: NY        Cops office: P217           Not a sergeant      Number of Cases: 5
+Name: Jessica Justice               Age: 59        State: NY        Cops office: P093           Sergeant            Number of Cases: 0
+Name: Detective Donavan Doner       Age: 60        State: NM        Cops office: P218           Not a sergeant      Number of Cases: 4
+Name: Steve Sergeant                Age: 43        State: NY        Cops office: A093           Sergeant            Number of Cases: 0
+Name: Julia Jones                   Age: 55        State: OH        Cops office: A433           Not a sergeant      Number of Cases: 3
+Name: Sam Witer                     Age: 44        State: NY        Cops office: A938           Not a sergeant      Number of Cases: 3
+Name: Drew Carey                    Age: 63        State: NY        Cops office: A323           Not a sergeant      Number of Cases: 5
+Name: Brad Pitt                     Age: 51        State: NM        Cops office: P243           Not a sergeant      Number of Cases: 0
+Name: Emma Peanut                   Age: 29        State: NY        Cops office: P034           Not a sergeant      Number of Cases: 4
+Name: Becky Rozzie                  Age: 53        State: OH        Cops office: A233           Not a sergeant      Number of Cases: 7
+Name: Joe Smitty                    Age: 40        State: NY        Cops office: A928           Not a sergeant      Number of Cases: 6
+Name: Jimmy Major                   Age: 69        State: NY        Cops office: A323           Not a sergeant      Number of Cases: 2
+Name: Callie Prime                  Age: 50        State: NM        Cops office: P223           Not a sergeant      Number of Cases: 0
+Name: Lily Wright                   Age: 23        State: NY        Cops office: P234           Not a sergeant      Number of Cases: 5
+Name: Jessie James                  Age: 45        State: OH        Cops office: A433           Not a sergeant      Number of Cases: 3
+Name: Kevin Cost                    Age: 54        State: NY        Cops office: A958           Not a sergeant      Number of Cases: 8
+Name: Dan Sillter                   Age: 53        State: NY        Cops office: A423           Not a sergeant      Number of Cases: 4
+Name: Jan Grover                    Age: 55        State: NM        Cops office: P743           Not a sergeant      Number of Cases: 9
+Name: Jerry Hana                    Age: 34        State: NY        Cops office: P734           Not a sergeant      Number of Cases: 3
+Name: Janey Sab                     Age: 35        State: OH        Cops office: A463           Not a sergeant      Number of Cases: 2
+Name: Lisa Sunny                    Age: 43        State: NY        Cops office: A008           Not a sergeant      Number of Cases: 1
+Name: Joyce Winter                  Age: 23        State: NY        Cops office: A433           Not a sergeant      Number of Cases: 0
+Name: Joyce North                   Age: 31        State: NM        Cops office: P443           Not a sergeant      Number of Cases: 0
+Name: Lawrence Scout                Age: 54        State: NY        Cops office: A932           Not a sergeant      Number of Cases: 1
+Name: Joey Marse                    Age: 63        State: NY        Cops office: A333           Not a sergeant      Number of Cases: 15
+There are 25 cops
+------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------
+                                                          Data for the Police after the sort
+------------------------------------------------------------------------------------------------------------------------------------------------------
+Name: Jessica Justice               Age: 59        State: NY        Cops office: P093           Sergeant            Number of Cases: 0
+Name: Steve Sergeant                Age: 43        State: NY        Cops office: A093           Sergeant            Number of Cases: 0
+Name: Brad Pitt                     Age: 51        State: NM        Cops office: P243           Not a sergeant      Number of Cases: 0
+Name: Callie Prime                  Age: 50        State: NM        Cops office: P223           Not a sergeant      Number of Cases: 0
+Name: Joyce Winter                  Age: 23        State: NY        Cops office: A433           Not a sergeant      Number of Cases: 0
+Name: Joyce North                   Age: 31        State: NM        Cops office: P443           Not a sergeant      Number of Cases: 0
+Name: Lisa Sunny                    Age: 43        State: NY        Cops office: A008           Not a sergeant      Number of Cases: 1
+Name: Lawrence Scout                Age: 54        State: NY        Cops office: A932           Not a sergeant      Number of Cases: 1
+Name: Jimmy Major                   Age: 69        State: NY        Cops office: A323           Not a sergeant      Number of Cases: 2
+Name: Janey Sab                     Age: 35        State: OH        Cops office: A463           Not a sergeant      Number of Cases: 2
+Name: Jessie James                  Age: 45        State: OH        Cops office: A433           Not a sergeant      Number of Cases: 3
+Name: Jerry Hana                    Age: 34        State: NY        Cops office: P734           Not a sergeant      Number of Cases: 3
+Name: Julia Jones                   Age: 55        State: OH        Cops office: A433           Not a sergeant      Number of Cases: 3
+Name: Sam Witer                     Age: 44        State: NY        Cops office: A938           Not a sergeant      Number of Cases: 3
+Name: Dan Sillter                   Age: 53        State: NY        Cops office: A423           Not a sergeant      Number of Cases: 4
+Name: Emma Peanut                   Age: 29        State: NY        Cops office: P034           Not a sergeant      Number of Cases: 4
+Name: Detective Donavan Doner       Age: 60        State: NM        Cops office: P218           Not a sergeant      Number of Cases: 4
+Name: Drew Carey                    Age: 63        State: NY        Cops office: A323           Not a sergeant      Number of Cases: 5
+Name: Sally Sleuth                  Age: 23        State: NY        Cops office: P217           Not a sergeant      Number of Cases: 5
+Name: Lily Wright                   Age: 23        State: NY        Cops office: P234           Not a sergeant      Number of Cases: 5
+Name: Joe Smitty                    Age: 40        State: NY        Cops office: A928           Not a sergeant      Number of Cases: 6
+Name: Becky Rozzie                  Age: 53        State: OH        Cops office: A233           Not a sergeant      Number of Cases: 7
+Name: Kevin Cost                    Age: 54        State: NY        Cops office: A958           Not a sergeant      Number of Cases: 8
+Name: Jan Grover                    Age: 55        State: NM        Cops office: P743           Not a sergeant      Number of Cases: 9
+Name: Joey Marse                    Age: 63        State: NY        Cops office: A333           Not a sergeant      Number of Cases: 15
+There are 25 cops
+------------------------------------------------------------------------------------------------------------------------------------------------------
